@@ -1,1 +1,1 @@
-# Branches allow you to make seperate changes from the orignal file like bug fixes. This is very modified. 
+# A branch allows you to make seperate changes from the orignal file like bug fixes. This is very modified. 
